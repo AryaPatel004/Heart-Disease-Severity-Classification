@@ -140,8 +140,6 @@ Key libraries used:
 - **mord (ordinal regression)**
 - **pandas, numpy, matplotlib, seaborn**
 
-See requirements.txt for the full list with pinned versions.
-
 ---
 
 ## References
